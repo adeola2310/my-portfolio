@@ -14,21 +14,21 @@ class Contact extends Component {
                        style={{height: '250px'}}
                        />
                        <h2> Adekoyejo Adeola </h2>
-                       <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis pellentesque lacus eleifend lacinia... </p>
+                       <p> You can contact me or check me out on the following social media...</p>
                </Cell>
-               
-               <Cell Col={6}> 
+
+               <Cell Col={6}>
                    <h1> Contact Me </h1>
                    <hr/>
                    <List>
   <ListItem>
-    <ListItemContent icon="person">Bryan Cranston</ListItemContent>
+    <ListItemContent icon="instagram"></ListItemContent>
   </ListItem>
   <ListItem>
-    <ListItemContent icon="person">Aaron Paul</ListItemContent>
+    <ListItemContent icon="person"></ListItemContent>
   </ListItem>
   <ListItem>
-    <ListItemContent icon="person">Bob Odenkirk</ListItemContent>
+    <ListItemContent icon="person"></ListItemContent>
   </ListItem>
 </List>
 
